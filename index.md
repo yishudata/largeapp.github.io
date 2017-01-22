@@ -1,6 +1,6 @@
 ## Welcome to BigData and Application Research Group @ CCNL from SCUT
 
-You can use the [editor on GitHub](https://github.com/largeapp/largeapp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Sign in](https://github.com/largeapp/largeapp.github.io/edit/master/index.md)
 
 
 ### About BDA Group
@@ -15,9 +15,11 @@ You can use the [editor on GitHub](https://github.com/largeapp/largeapp.github.i
 
 ### People
 **Faculty**
-**Dr. Jinlong Hu**,
 
-Current Members
+**Dr. Jinlong Hu**
+
+**Current Members**
+
 **MS Students**
 
 **Undergraduates**
