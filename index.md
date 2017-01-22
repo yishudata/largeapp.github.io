@@ -1,4 +1,4 @@
-## Welcome to BigData and Application Research Group @ SCUT
+## Welcome to BigData and Application Research Group @ CCNL from SCUT
 
 You can use the [editor on GitHub](https://github.com/largeapp/largeapp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
