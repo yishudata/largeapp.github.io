@@ -28,15 +28,15 @@ Dr. Jinlong Hu
 
 
 ### Support 
-**website management**
+- **website management**
 
-[Sign in](https://github.com/largeapp/largeapp.github.io/edit/master/index.md)
+  [Sign in](https://github.com/largeapp/largeapp.github.io/edit/master/index.md)
 
-**example**
+- **example**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+  ```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -54,4 +54,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
