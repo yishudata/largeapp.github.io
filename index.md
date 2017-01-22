@@ -2,7 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/largeapp/largeapp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About BDA Group
 
@@ -15,6 +14,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Software
 
 ### People
+**Faculty**
+**Dr. Jinlong Hu**,
+
+Current Members
+**MS Students**
+
+**Undergraduates**
 
 ### Contact us
 
