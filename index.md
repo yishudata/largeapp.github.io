@@ -7,10 +7,6 @@
 
 ### Projects
 
-### Publications
-
-### Software
-
 ### People
 **Faculty**
 
@@ -18,9 +14,15 @@
 Dr. Jinlong Hu
 ```
 
+
 **Current Members**
 
-**MS Students**
+**Graduate Students**
+Runchao Zhu
+Yi Zhuang
+Yuezhen Kuang
+Lijie Cao
+Lang Chen
 
 **Undergraduates**
 
