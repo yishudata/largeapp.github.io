@@ -1,7 +1,3 @@
----
-layout: base
-title: Big data and application research group
----
 
 # Welcome to BigData and Application Research Group at SCUT
 
