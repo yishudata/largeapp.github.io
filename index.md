@@ -1,5 +1,8 @@
 
-# Welcome to BigData and Application Research Group at SCUT
+# Jinlong Hu at SCUT
+  
+胡金龙 (Jinlong Hu)，男，计算机科学与工程学院高级工程师，工学博士，硕士生导师，广东省计算机网络重点实验室成员，IEEE和ACM会员。2004年至今先后在华南理工大学信息网络工程研究中心、计算机科学与工程学院工作，2016至2017年为美国宾夕法尼亚州立大学访问学者。主讲课程：高性能计算与云计算、高级计算机网络安全等。
+主要研究领域为大数据分析与处理、机器学习、推荐系统、移动广告、新一代网络技术与安全等。近年来，主持和参与了教育部-中国移动科研基金、广东省科技计划项目、广东省重大科技专项、广东省自然科学基金、国家863计划、国家科技支撑计划、国家CNGI等项目20多项，发表学术论文43篇，出版译著1本，已获授权发明专利3项，软件著作权12项，受理发明专利16项。
 
 
 ### About BDA Group
@@ -13,7 +16,6 @@
 
 ```markdown
 Dr. Jinlong Hu
-
 ```
 
 
@@ -21,15 +23,6 @@ Dr. Jinlong Hu
 
 **Graduate Students**  
 
-Runchao Zhu
-<br> 
-Yi Zhuang
-<br> 
-Yuezhen Kuang
-<br> 
-Lijie Cao
-<br> 
-Lang Chen
 
 **Undergraduates**
 
@@ -41,26 +34,5 @@ Lang Chen
 
   [Sign in](https://github.com/largeapp/largeapp.github.io/edit/master/index.md)
 
-- **example**
 
-  Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-  ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-  For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
