@@ -1,4 +1,4 @@
-## Welcome to BigData and Application Research Group @ CCNL from SCUT
+## Welcome to BigData and Application Research Group @ SCUT
 
 
 ### About BDA Group
