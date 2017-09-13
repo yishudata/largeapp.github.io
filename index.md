@@ -1,4 +1,4 @@
-## Welcome to BigData and Application Research Group @ SCUT
+# Welcome to BigData and Application Research Group at SCUT
 
 
 ### About BDA Group
