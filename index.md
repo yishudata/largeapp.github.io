@@ -1,10 +1,11 @@
 
-# Jinlong Hu at SCUT
-<a href=" http://cs.scut.edu.cn/szdw/jsjfg/1bjpfh4c2k05c.xhtml">Jinlong Hu</a>
+# Jinlong Hu, Ph.D.
+Senior Engineer, School of Computer Science & Engineering, South China University of Technology
 
-### Research overview
+501, B7 Building, South China University of Technology, Guangzhou Higher Education Mega Centre, Guangzhou, 510006, China 
+Email: jlhu at scut.edu.cn 
 
-### Projects
+### Basic Info
 
 ### Group members
 **Faculty**
