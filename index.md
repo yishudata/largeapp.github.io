@@ -1,8 +1,10 @@
 
 # Jinlong Hu, Ph.D.
-Senior Engineer, School of Computer Science & Engineering, South China University of Technology
+Senior Engineer, School of Computer Science & Engineering <br>
+South China University of Technology
 
-501, B7 Building, South China University of Technology, Guangzhou Higher Education Mega Centre, Guangzhou, 510006, China 
+501, B7 Building, South China University of Technology<br>
+Guangzhou Higher Education Mega Centre, Guangzhou, 510006, China <br>
 Email: jlhu at scut.edu.cn 
 
 ### Basic Info
