@@ -32,10 +32,14 @@ Information Theory and Coding (2006)<br>
 
 #### Current Projects
 
-Research on the Technology and Application of 4G Product Micro Marketing based on Mobile Computing Context Big Data, the Scientific Research Joint Funds of Ministry of Education of China and China Mobile, PI, 2015-2018
+<ul>
+<li>Research on the Technology and Application of 4G Product Micro Marketing based on Mobile Computing Context Big Data, the Scientific Research Joint Funds of Ministry of Education of China and China Mobile, PI, 2015-2018
+</li></ul>
 
 
-The Key Technology of Mobile Advertising Platform based on Cloud Computing, Science and Technology Planning Project of Guangdong Province, PI, 2014-2016
+<ul>
+<li>The Key Technology of Mobile Advertising Platform based on Cloud Computing, Science and Technology Planning Project of Guangdong Province, PI, 2014-2016
+</li></ul>
 
 
 
