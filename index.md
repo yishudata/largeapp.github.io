@@ -17,17 +17,17 @@ He has several professional certification including CISSP certification by ISC2 
 
 <ul>
 <li>Big Data Analysis & Processing</li>
-<li>Cloud Computing</li>
-<li>Mobile Advertising</li>
 <li>Recommender System</li>
+<li>Mobile Advertising</li>
 <li>Machine Learning</li>
-<li>Network Security</li>
-<li>Mobile & Embedded System</li>
+<li>Computer Network & Security</li>
+<li>Mobile Computing</li>
+<li>Embedded System</li>
 </ul>
 
 #### Teaching
 
-<ul><li>High Performance Computing and Cloud Computing (2014,2015,2016)</li>  
+<ul><li>High Performance Computing & Cloud Computing (2014,2015,2016)</li>  
 <li>Network Security (2014,2015,2016)</li>
 <li>Embedded System (2005,2006,2007,2008)</li>
 <li>Advanced Computer Network (2006)</li>
