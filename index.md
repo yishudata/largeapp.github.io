@@ -39,15 +39,19 @@ Dr. Jinlong Hu
 
 **Graduate Students**  
   
+```markdown
 Runchao Zhu (2015) <br>
 Yi Zhuang (2016) <br>
 Yuezhen Kuang (2016) <br>
 Lijie Cao (2017) <br>
-Lang Chen (2017) <br>
+Lang Chen (2017)
+```
 
 **Undergraduate Students**  
   
+  ```markdown
   Xingping He (2015)
+  ```
 
 #### Contact us
 
