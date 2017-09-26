@@ -24,9 +24,9 @@ Hu's current research interests include Big Data Analysis and Processing, Machin
 #### Teaching
 
 High Performance Computing and Cloud Computing (2014,2015,2016)<br>
-Network Security (2014,2015,2016)  <br>
-Embedded System (2005,2006,2007,2008)<br>  
-Advanced Computer Network (2006)<br>  
+Network Security (2014,2015,2016)<br>
+Embedded System (2005,2006,2007,2008)<br>
+Advanced Computer Network (2006)<br>
 Information Theory and Coding (2006)<br>
 
 
