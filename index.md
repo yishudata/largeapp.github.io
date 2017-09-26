@@ -22,9 +22,6 @@ Hu's current research interests include Big Data Analysis and Processing, Machin
 Dr. Jinlong Hu
 ```
 
-
-**Current Members**
-
 **Graduate Students**  
 Runchao Zhu (2015) <br>
 Yu Zhuang (2016) <br>
