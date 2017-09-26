@@ -40,10 +40,10 @@ Dr. Jinlong Hu
 **Graduate Students**  
   
 ```markdown
-Runchao Zhu (2015) <br>
-Yi Zhuang (2016) <br>
-Yuezhen Kuang (2016) <br>
-Lijie Cao (2017) <br>
+Runchao Zhu (2015) 
+Yi Zhuang (2016) 
+Yuezhen Kuang (2016) 
+Lijie Cao (2017) 
 Lang Chen (2017)
 ```
 
