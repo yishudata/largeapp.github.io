@@ -22,7 +22,7 @@ He has several professional certification including CISSP certification by ISC2 
 <li>Recommender System</li>
 <li>Brain and Computational Neuroscience</li>
 <li>Network Security</li>
-<li>Mobile Computing and Embedded System</li>
+<li>Mobile and Embedded System</li>
 </ul>
 
 #### Teaching
