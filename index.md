@@ -19,7 +19,7 @@ He has several professional certification including CISSP certification by ISC2 
 <li>Big Data Analysis & Processing</li>
 <li>Machine Learning</li>
 <li>Mobile Advertising & recommendation</li> 
-<li>Cloud Computing & Edge Computing</li>
+<li>Fog/Edge Computing</li>
 <li>Computer Networking & Security</li>
 <li>Mobile Computing</li>
 <li>Embedded System</li>
