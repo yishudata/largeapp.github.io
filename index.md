@@ -23,6 +23,7 @@ Dr. Jinlong Hu
 ```
 
 **Graduate Students**  
+  
 Runchao Zhu (2015) <br>
 Yu Zhuang (2016) <br>
 Yuzhen Kuang (2016) <br>
@@ -30,7 +31,8 @@ Lijie Cao (2017) <br>
 Lang Chen (2017) <br>
 
 **Undergraduate Students**  
-Xingping He
+  
+  Xingping He
 
 ### Contact us
 
