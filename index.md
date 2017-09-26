@@ -71,8 +71,8 @@ Lang Chen (2017)
   ```
 
 #### Contact
-<br>
-501, B7 Building, South China University of Technology<br>
+School of Computer Science and Engineering
+B3 Building, South China University of Technology<br>
 Guangzhou Higher Education Mega Centre, Guangzhou, 510006, China <br>
 Email: jlhu at scut.edu.cn 
 
