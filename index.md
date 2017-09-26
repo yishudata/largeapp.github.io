@@ -1,7 +1,7 @@
 
 ### Jinlong Hu, Ph.D.
 Senior Engineer, School of Computer Science and Engineering <br>
-South China University of Technology
+<a href="http://www.scut.edu.cn/">South China University of Technology</a>
 
 501, B7 Building, South China University of Technology<br>
 Guangzhou Higher Education Mega Centre, Guangzhou, 510006, China <br>
@@ -29,7 +29,7 @@ Research on the Technology and Application of 4G Product Micro Marketing based o
 
 The Key Technology of Mobile Advertising Platform based on Cloud Computing, Science and Technology Planning Project of Guangdong Province, PI, 2014-2016
 
-### 
+
 #### Group members
 **Faculty**
 
