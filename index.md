@@ -32,7 +32,7 @@ Lang Chen (2017) <br>
 
 **Undergraduate Students**  
   
-  Xingping He
+  Xingping He (2015)
 
 ### Contact us
 
