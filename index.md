@@ -29,7 +29,7 @@ Yuzhen Kuang (2016) <br>
 Lijie Cao (2017) <br>
 Lang Chen (2017) <br>
 
-**Undergraduate Students**
+**Undergraduate Students**  
 Xingping He
 
 ### Contact us
@@ -38,7 +38,6 @@ Xingping He
 ### Support 
 - **website management**
 
-  [Sign in](https://github.com/largeapp/largeapp.github.io/edit/master/index.md)
 
 
 
