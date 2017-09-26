@@ -9,7 +9,7 @@ Email: jlhu at scut.edu.cn
 </p>
  
 #### Basic Info
-<p style="font-family:arial;color:black;font-size:18px;">Jinlong Hu is a Senior Engineer in the School of Computer Science and Engineering at South China University of Technology (SCUT). Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He was a faculty member of Communication and Computer Network Laboratory of Guangdong Province at SCUT from 2004. He received Bachelor Degree in Communication engineering, Master Degree in Communication and Information System, and Ph.D in Computer Application Technology from SCUT, respectively. He was a visiting scholar at the Pennsylvania State University from 2016 to 2017.
+<p style="font-family:arial;color:black;font-size:18px;">Dr.Jinlong Hu is a Senior Engineer in the School of Computer Science and Engineering at South China University of Technology (SCUT). Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He was a faculty member of Communication and Computer Network Laboratory of Guangdong Province at SCUT from 2004. He received Bachelor Degree in Communication engineering, Master Degree in Communication and Information System, and Ph.D in Computer Application Technology from SCUT, respectively. He was a visiting scholar at the Pennsylvania State University from 2016 to 2017.
 <br>
 <br>
 He has hosted or participated over 20 research projects since 2004, including the Scientific Research Joint Funds of Ministry of Education and China Mobile, the Science and Technology Planning Project of Guangdong Province, the 863 program project, the CNGI Project and etc. 
@@ -45,7 +45,7 @@ The Key Technology of Mobile Advertising Platform based on Cloud Computing, Scie
 **Faculty**
 
 ```markdown
-Dr. Jinlong Hu
+Dr.Jinlong Hu
 ```
 
 **Graduate Students**  
