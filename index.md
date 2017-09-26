@@ -18,11 +18,11 @@ He has several professional certification including CISSP certification by ISC2 
 Hu's current research interests include Big Data Analysis and Processing, Machine Learning, Recommended System, Mobile Advertising, Brain Data Analysis, and Network Security.
 
 ### Teaching
-High Performance Computing and Cloud Computing (2014,2015,2016)
-Network Security (2014,2015,2016)
-Embedded System (2005,2006,2007,2008)
-Advanced Computer Network (2006)
-Information Theory and Coding (2006)
+High Performance Computing and Cloud Computing (2014,2015,2016)  
+Network Security (2014,2015,2016)  
+Embedded System (2005,2006,2007,2008)  
+Advanced Computer Network (2006)  
+Information Theory and Coding (2006)  
 
 ### Current Projects
 Research on the Technology and Application of 4G Product Micro Marketing based on Mobile Computing Context Big Data, the Scientific Research Joint Funds of Ministry of Education of China and China Mobile, PI, 2015-2018
