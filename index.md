@@ -13,9 +13,7 @@ Jinlong Hu is a Senior Engineer in the School of Computer Science and Engineerin
 He has hosted or participated over 30 research projects since 2004, such as the Scientific Research Joint Funds of Ministry of Education and China Mobile, the Science and Technology Planning Project of Guangdong Province, the 863 program project and the CNGI Project. 
 
 ### Research Interest
-Big Data Analysis and Processing, Machine Learning, New generation network technology and security 
-
-Recommended System, Mobile Advertising, Brain Data Analysis.
+Hu's current research interests include Big Data Analysis and Processing, Machine Learning, Recommended System, Mobile Advertising, Brain Data Analysis, and Network Security.
 
 ### Group members
 **Faculty**
@@ -28,9 +26,14 @@ Dr. Jinlong Hu
 **Current Members**
 
 **Graduate Students**  
+Runchao Zhu (2015) <br>
+Yu Zhuang (2016) <br>
+Yuzhen Kuang (2016) <br>
+Lijie Cao (2017) <br>
+Lang Chen (2017) <br>
 
-
-**Undergraduates**
+**Undergraduate Students**
+Xingping He
 
 ### Contact us
 
