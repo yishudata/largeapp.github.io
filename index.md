@@ -20,9 +20,9 @@ He has several professional certification including CISSP certification by ISC2 
 <li>Machine Learning</li>
 <li>Mobile Advertising</li>
 <li>Recommender System</li>
-<li>Brain and Computational Neuroscience</li>
+<li>Brain & Computational Neuroscience</li>
 <li>Network Security</li>
-<li>Mobile and Embedded System</li>
+<li>Mobile & Embedded System</li>
 </ul>
 
 #### Teaching
