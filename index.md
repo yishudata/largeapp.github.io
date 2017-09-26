@@ -16,11 +16,11 @@ He has several professional certification including CISSP certification by ISC2 
 #### Research Interests
 
 <ul>
-<li>Big Data Analysis and Processing</li>
+<li>Big Data Analysis & Processing</li>
 <li>Machine Learning</li>
 <li>Mobile Advertising</li>
 <li>Recommender System</li>
-<li>Brain & Computational Neuroscience</li>
+<li>Brain & Computation</li>
 <li>Network Security</li>
 <li>Mobile & Embedded System</li>
 </ul>
