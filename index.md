@@ -81,7 +81,7 @@ Lang Chen (2017)
 **Undergraduate Students**  
   
   ```markdown
-  Xingping He (2015)
+Xingping He (2015)
   ```
 
 #### Contact
