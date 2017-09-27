@@ -30,7 +30,7 @@ He has several professional certification including CISSP certification by ISC2 
 <ul>
 <li>Jinlong Hu, Junjie Liang, Shoubin Dong, iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection, Mobile Information Systems, vol. 2017, Article ID 6412521, 2017. </li>
 <li>Zhengxian Li, Jinlong Hu, Jiazhao Shen, Yong Xu, A scalable recipe recommendation system for mobile application, ICISCE 2016, Beijing, China, July 2016.</li>
-<li>Meining Nie, Purui Su, Qi Li, Z Wang, Yl Ying, Jinlong Hu, Dongguo Feng, Xede: Practical Exploit Early Detection, RAID 2015, Kyoto, Japan, November 2015.</li>
+<li>Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, Dengguo Feng, Xede: Practical Exploit Early Detection, RAID 2015, Kyoto, Japan, November 2015.</li>
 <li>Jianfeng Deng, Ling Zhang, Jinlong Hu, Dongli He, Adaptation of ANN Based Video Stream QoE Prediction Model, Lecture Notes in Computer Science, Vol. 8879, 2014.</li>
 <li>Zhao Ye, Jinlong Hu, Ling Zhang, Service-oriented Controllable Multicast Model for Next Generation Internet, Indonesian Journal of Electrical Engineering, Vol. 11, No. 3, March 2013.</li>
 <li>Baogang Chen, Jinlong Hu, Modeling dynamic file diffusion behavior in P2P networks, Advances in Intelligent Systems and Computing, Vol. 191, 2013.</li>
