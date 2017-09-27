@@ -21,7 +21,7 @@ He has several professional certification including CISSP certification by ISC2 
 <li>Mobile Advertising & recommendation</li> 
 <li>Fraud & Anomaly Detection</li>
 <li>Computer Networking & Security</li>
-<li>Fog/Edge computing</li>
+<li>Fog/Edge Computing</li>
 <li>Brain & Neuroinformatics</li>
 </ul>
 
