@@ -19,10 +19,10 @@ He has several professional certification including CISSP certification by ISC2 
 <li>Big Data Analysis & Processing</li>
 <li>Machine Learning</li>
 <li>Mobile Advertising & recommendation</li> 
-<li>Customer Analysis</li>
+<li>Fraud & Anomaly Detection</li>
 <li>Computer Networking & Security</li>
-<li>Mobile Computing</li>
-<li>Embedded System</li>
+<li>Fog/Edge computing</li>
+<li>Brain & Neuroinformatics</li>
 </ul>
 
 #### Selected Recent Publications
