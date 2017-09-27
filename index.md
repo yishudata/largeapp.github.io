@@ -38,8 +38,6 @@ He has several professional certification including CISSP certification by ISC2 
 <li>Jinlong Hu, Bin Liao, Bujie Qin, Source Address Validation based SIP Security Service Model, ICCM 2012, Seoul Korea, Vol. 2, April 2012</li>
 <li>Jinlong Hu, Ling Zhang, Yong Xu, Zhao Ye, SIP Security Scheme of Internet Multimedia Communication，Journal of South China University of Technology (Natural Science Edition), Vol. 40, No. 4, April 2012</li>
 <li>Jinlong Hu, Bin Liao and Qin You, Location-based mobile information sharing service for social network, Proc. SPIE 8350, 83502I (2011), January 2012 </li>
-<li>Tiezhu Zhao, Jinlong Hu, Performance Evaluation of Parallel File System Based on Lustre and Grey Theory, GCC 2010, November 2010 </li>
-<li>Jinlong Hu, Ling Zhang, Bin Liao, Yisheng Wu, Ningyu An, A Novel MPEG-4 Short Film Production System Based on Mobile Context Photo, ICNIT 2010, Manila, Philippines, June 2010 </li>
 </ul>
 
 #### Selected Recent Projects
@@ -47,7 +45,6 @@ He has several professional certification including CISSP certification by ISC2 
 <ul>
 <li>Research on the Technology and Application of 4G Product Micro Marketing based on Mobile Computing Context Big Data, the Scientific Research Joint Funds of Ministry of Education of China and China Mobile, PI, 2015-2018
 </li></ul>
-
 
 <ul>
 <li>The Key Technology of Mobile Advertising Platform based on Cloud Computing, Science and Technology Planning Project of Guangdong Province, PI, 2014-2016
