@@ -7,11 +7,8 @@ South China University of Technology
 #### Basic Info
 Jinlong Hu is a Senior Engineer in the <a href="http://cs.scut.edu.cn/"> School of Computer Science and Engineering</a> at <a href="http://www.scut.edu.cn/">South China University of Technology (SCUT)</a>. Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He was a faculty member of <a href="http://ccnl.scut.edu.cn/"> Communication and Computer Network Laboratory of Guangdong Province at SCUT</a> since 2004. He received Bachelor Degree in Communication engineering, Master Degree in Communication and Information System, and Ph.D in Computer Application Technology from SCUT, respectively. He was a visiting scholar at the Pennsylvania State University from 2016 to 2017.
 <br>
-<br>
 He has hosted or participated over 20 research projects since 2004, including the Scientific Research Joint Funds of Ministry of Education and China Mobile, the Science and Technology Planning Project of Guangdong Province, the 863 program project, the CNGI Project and etc. 
-<br>
-<br>
-He has several professional certification including CISSP certification by ISC2 since 2007, Senior Programmer Certification since 2002, and CCNP certification by Cisco from 2001 to 2004.
+
  
 #### Research Interests
 
@@ -19,9 +16,9 @@ He has several professional certification including CISSP certification by ISC2 
 <li>Big Data Analysis & Processing</li>
 <li>Machine Learning</li>
 <li>Mobile Advertising & recommendation</li> 
+<li>Customer Analysis</li>
 <li>Fraud & Anomaly Detection</li>
 <li>Computer Networking & Security</li>
-<li>Fog/Edge Computing</li>
 <li>Brain & Neuroinformatics</li>
 </ul>
 
