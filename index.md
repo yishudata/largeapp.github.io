@@ -17,7 +17,7 @@ He has hosted or participated over 20 research projects since 2004, including th
 <li>Big Data Analysis & Processing</li>
 <li>Machine Learning</li>
 <li>Mobile Advertising & recommendation</li> 
-<li>Brain & Neuroinformatics</li>
+<li>Computational Neuroscience & Neuroinformatics</li>
 <li>User behavior & Customer Analysis</li>
 <li>Computer Networking & Security</li>
 </ul>
