@@ -19,7 +19,7 @@ He has hosted or participated over 20 research projects since 2004, including th
 <li>Neuroinformatics</li>
 <li>Recommender System & Mobile Advertising</li> 
 <li>Computer Networking & Security</li>
-<li>Mobile Computing & Embedded System</li>
+<li>Cloud Computing</li>
 </ul>
 
 #### Selected Recent Publications
