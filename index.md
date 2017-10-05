@@ -17,6 +17,7 @@ He has hosted or participated over 20 research projects since 2004, including th
 <li>Big Data Analysis & Processing</li>
 <li>Machine Learning</li>
 <li>Neuroinformatics</li>
+<li>Fraud & Abnormal Detection</li>
 <li>Recommender System & Mobile Advertising</li> 
 <li>Computer Networking & Security</li>
 <li>Cloud Computing</li>
