@@ -20,7 +20,6 @@ He has hosted or participated over 20 research projects since 2004, including th
 <li>Fraud & Abnormal Detection</li>
 <li>Recommender System & Mobile Advertising</li> 
 <li>Computer Networking & Security</li>
-<li>Cloud Computing</li>
 </ul>
 
 #### Selected Recent Publications
