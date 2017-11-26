@@ -24,7 +24,8 @@ He has hosted or participated over 20 research projects since 2004, including th
 #### Selected Recent Publications
 
 <ul>
-<li>Ika Novita Dewi, Shoubin Dong, Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, 2017 IEEE International Conference on Bioinformatics and Biomedicine, Kansas City, MO, USA , November 2017.</li>
+<li>Yong Cai, Shaorong Liu, Jinlong Hu, Guihong Bai, and Shoubin Dong, A Hybrid Bipartite Graph based Recommendation algorithm for Mobile Games, IEEE International Conference on Big Data (BigData 2017), Boston, MA, USA, December 2017.</li>
+<li>Ika Novita Dewi, Shoubin Dong, Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017), Kansas City, MO, USA, November 2017.</li>
 <li>Jinlong Hu, Bin Liao, Xiaowei Zhao, and Ping Li, Applying convolutional neural networks to fMRI data classification: A deep learning approach, 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada, November 2017.(Poster)</li>
 <li>Jinlong Hu, Junjie Liang, Shoubin Dong, iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection, Mobile Information Systems, vol. 2017, Article ID 6412521, 2017. </li>
 <li>Zhengxian Li, Jinlong Hu, Jiazhao Shen, Yong Xu, A scalable recipe recommendation system for mobile application, ICISCE 2016, Beijing, China, July 2016.</li>
@@ -53,8 +54,8 @@ He has hosted or participated over 20 research projects since 2004, including th
 #### Teaching
 
 <ul><li>High Performance Computing & Cloud Computing (2014,2015,2016)</li>  
-<li>Network Security (2014,2015,2016)</li>
-<li>Embedded System (2005,2006,2007,2008)</li>
+<li>Advanced Computer Network Security (2014,2015,2016)</li>
+<li>Embedded Systems and Design (2005,2006,2007,2008)</li>
 <li>Advanced Computer Network (2006)</li>
 <li>Information Theory and Coding (2006)
 </li></ul>
