@@ -5,7 +5,7 @@ South China University of Technology
 
  
 #### Basic Info
-Jinlong Hu is a Senior Engineer in the <a href="http://cs.scut.edu.cn/"> School of Computer Science and Engineering</a> at <a href="http://www.scut.edu.cn/">South China University of Technology (SCUT)</a>. Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He was a faculty member of <a href="http://ccnl.scut.edu.cn/"> Communication and Computer Network Laboratory of Guangdong Province at SCUT</a> since 2004. He received Bachelor Degree in Communication engineering, Master Degree in Communication and Information System, and Ph.D in Computer Application Technology from SCUT, respectively. He was a visiting scholar at the Pennsylvania State University from 2016 to 2017.
+Jinlong Hu is a Senior Engineer in the <a href="http://cs.scut.edu.cn/"> School of Computer Science and Engineering</a> at <a href="http://www.scut.edu.cn/">South China University of Technology (SCUT)</a>. Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He was a faculty member of <a href="http://ccnl.scut.edu.cn/">Guangdong Key Laboratory of Communication and Computer Network at SCUT</a> since 2004. He received Bachelor Degree in Communication engineering, Master Degree in Communication and Information System, and Ph.D in Computer Application Technology from SCUT, respectively. He was a visiting scholar at the Pennsylvania State University from 2016 to 2017.
 <br>
 <br>
 He has hosted or participated over 20 research projects since 2004, including the Scientific Research Joint Funds of Ministry of Education and China Mobile, the Science and Technology Planning Project of Guangdong Province, the 863 program project, the CNGI Project and etc. 
@@ -16,17 +16,16 @@ He has hosted or participated over 20 research projects since 2004, including th
 <ul>
 <li>Big Data Analysis & Processing</li>
 <li>Machine Learning</li>
-<li>Bioinformatics & Biomedicine</li>
-<li>Fraud & Abnormal Detection</li>
-<li>Recommender System & Mobile Advertising</li> 
+<li>Recommender System & Mobile Advertising</li>
+<li>Brain Science & Bioinformatics</li>
 <li>Computer Networking & Security</li>
 </ul>
 
 #### Selected Recent Publications
 
 <ul>
-<li>Ika Novita Dewi, Shoubin Dong, Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, 2017 IEEE International Conference on Bioinformatics and Biomedicine, Kansas City, MO, USA , November 2017</li>
-<li>Jinlong Hu, Bin Liao, Xiaowei Zhao, and Ping Li, Applying convolutional neural networks to fMRI data classification: A deep learning approach, SCiP 2017, Vancouver, Canada, November 2017</li>
+<li>Ika Novita Dewi, Shoubin Dong, Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, 2017 IEEE International Conference on Bioinformatics and Biomedicine, Kansas City, MO, USA , November 2017.</li>
+<li>Jinlong Hu, Bin Liao, Xiaowei Zhao, and Ping Li, Applying convolutional neural networks to fMRI data classification: A deep learning approach, 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada, November 2017.(Poster)</li>
 <li>Jinlong Hu, Junjie Liang, Shoubin Dong, iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection, Mobile Information Systems, vol. 2017, Article ID 6412521, 2017. </li>
 <li>Zhengxian Li, Jinlong Hu, Jiazhao Shen, Yong Xu, A scalable recipe recommendation system for mobile application, ICISCE 2016, Beijing, China, July 2016.</li>
 <li>Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, Dengguo Feng, Xede: Practical Exploit Early Detection, RAID 2015, Kyoto, Japan, November 2015.</li>
