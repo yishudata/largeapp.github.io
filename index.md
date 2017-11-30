@@ -10,6 +10,13 @@ Jinlong Hu is a Senior Engineer in the <a href="http://cs.scut.edu.cn/"> School 
 <br>
 He has hosted or participated over 20 research projects since 2004, including the Scientific Research Joint Funds of Ministry of Education and China Mobile, the Science and Technology Planning Project of Guangdong Province, the 863 program project, the CNGI Project and etc. 
 
+#### What's New
+<ul>
+<li>[Dec. 2017] Attending BigData 2017 conference.</li>
+<li>[Nov. 2017] Attending BIBM 2017 conference.</li>
+<li>[Nov. 2016 - Dec. 2017] I was visiting at Pennsylvania State University as visiting scholar.</li>
+</ul>
+
  
 #### Research Interests
 
@@ -30,13 +37,6 @@ He has hosted or participated over 20 research projects since 2004, including th
 <li>Jinlong Hu, Junjie Liang, Shoubin Dong, iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection, Mobile Information Systems, vol. 2017, Article ID 6412521, 2017. </li>
 <li>Zhengxian Li, Jinlong Hu, Jiazhao Shen, Yong Xu, A scalable recipe recommendation system for mobile application, ICISCE 2016, Beijing, China, July 2016.</li>
 <li>Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, Dengguo Feng, Xede: Practical Exploit Early Detection, RAID 2015, Kyoto, Japan, November 2015.</li>
-<li>Jianfeng Deng, Ling Zhang, Jinlong Hu, Dongli He, Adaptation of ANN Based Video Stream QoE Prediction Model, Lecture Notes in Computer Science, Vol. 8879, 2014.</li>
-<li>Zhao Ye, Jinlong Hu, Ling Zhang, Service-oriented Controllable Multicast Model for Next Generation Internet, Indonesian Journal of Electrical Engineering, Vol. 11, No. 3, March 2013.</li>
-<li>Baogang Chen, Jinlong Hu, Modeling dynamic file diffusion behavior in P2P networks, Advances in Intelligent Systems and Computing, Vol. 191, 2013.</li>
-<li>Baogang Chen, Jinlong Hu, Research on characteristics of workload and user behaviors in P2P file-sharing system, Advances in Intelligent Systems and Computing, Vol. 191, 2013.</li>
-<li>Jinlong Hu, Bin Liao, Bujie Qin, Source Address Validation based SIP Security Service Model, ICCM 2012, Seoul Korea, Vol. 2, April 2012.</li>
-<li>Jinlong Hu, Ling Zhang, Yong Xu, Zhao Ye, SIP Security Scheme of Internet Multimedia Communication，Journal of South China University of Technology (Natural Science Edition), Vol. 40, No. 4, April 2012.</li>
-<li>Jinlong Hu, Bin Liao, Qin You, Location-based mobile information sharing service for social network, Proc. SPIE 8350, 83502I (2011), January 2012.</li>
 </ul>
 
 #### Selected Recent Projects
