@@ -36,7 +36,7 @@ He has hosted or participated over 20 research projects since 2004, including th
 <li>Jinlong Hu, Bin Liao, Xiaowei Zhao, and Ping Li, Applying convolutional neural networks to fMRI data classification: A deep learning approach, 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada, November 2017.(Poster)</li>
 <li>Jinlong Hu, Junjie Liang, Shoubin Dong, iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection, Mobile Information Systems, vol. 2017, Article ID 6412521, 2017. </li>
 <li>Zhengxian Li, Jinlong Hu, Jiazhao Shen, Yong Xu, A scalable recipe recommendation system for mobile application, ICISCE 2016, Beijing, China, July 2016.</li>
-<li>Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, Dengguo Feng, Xede: Practical Exploit Early Detection, RAID 2015, Kyoto, Japan, November 2015.</li>
+<li>Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, Dengguo Feng, Xede: Practical Exploit Early Detection, International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015), Kyoto, Japan, November 2015.</li>
 </ul>
 
 #### Selected Recent Projects
