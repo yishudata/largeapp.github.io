@@ -23,7 +23,7 @@ He has hosted or participated over 20 research projects since 2004, including th
 <ul>
 <li>Big Data Analysis & Processing</li>
 <li>Machine Learning</li>
-<li>Brain Informatices & Bioinformatices</li>
+<li>Brain Sciences & Bioinformatices</li>
 <li>Computational Advertising & Recommendation</li>
 <li>Computer Networking & Security</li>
 </ul>
