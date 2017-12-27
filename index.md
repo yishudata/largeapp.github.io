@@ -12,9 +12,10 @@ He has hosted or participated over 20 research projects since 2004, including th
 
 #### What's New
 <ul>
+<li>[Dec. 2017] Dr.Xiying Wang visited our lab.</li>
 <li>[Dec. 2017] Attending BigData 2017 conference at Boston.</li>
 <li>[Nov. 2017] Attending BIBM 2017 conference at Kansas City.</li>
-<li>[Nov. 2016 - Dec. 2017] I was visiting at Pennsylvania State University as a visiting scholar.</li>
+<li>[Nov. 2016 - Dec. 2017] I was visiting The Pennsylvania State University as a visiting scholar.</li>
 </ul>
 
  
