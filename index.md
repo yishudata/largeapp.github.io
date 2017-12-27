@@ -54,7 +54,9 @@ He has hosted or participated over 20 research projects since 2004, including th
 
 #### Teaching
 
-<ul><li>High Performance Computing & Cloud Computing (2014,2015,2016)</li>  
+<ul>
+<li>Digital Communication Principle (2018)</li>
+<li>High Performance Computing & Cloud Computing (2014,2015,2016)</li>  
 <li>Advanced Computer Network Security (2014,2015,2016)</li>
 <li>Embedded Systems and Design (2005,2006,2007,2008)</li>
 <li>Advanced Computer Network (2006)</li>
