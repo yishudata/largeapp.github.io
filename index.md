@@ -88,7 +88,11 @@ Lang Chen (2017)
   
   ```markdown
 Xingping He (2015)
-  ```
+Jiahui Li (2014)
+Yifan Zhang (2014)
+Manjing Cai (2014)
+Kai Feng (2014)
+  ```
 
 #### Contact
 School of Computer Science and Engineering<br>
