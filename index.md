@@ -53,13 +53,17 @@ He has hosted or participated over 20 research projects since 2004, including th
 
 
 #### Teaching
+<ul>
+<li>Graduate Courses:</li>
+<li>Advanced Computer Network Security /Information Security Technology (2014,2015,2016,2018)</li>
+<li>Advanced Computer Network (2006)</li>
+</ul>
 
 <ul>
+<li>Undergraduate Courses:</li>
 <li>Digital Communication Principle (2018)</li>
 <li>High Performance Computing & Cloud Computing (2014,2015,2016)</li>  
-<li>Advanced Computer Network Security (2014,2015,2016)</li>
 <li>Embedded Systems and Design (2005,2006,2007,2008)</li>
-<li>Advanced Computer Network (2006)</li>
 <li>Information Theory and Coding (2006)
 </li></ul>
 
