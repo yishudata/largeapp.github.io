@@ -5,9 +5,7 @@ South China University of Technology
 
  
 #### Basic Info
-Jinlong Hu is a Senior Engineer in the <a href="http://cs.scut.edu.cn/"> School of Computer Science and Engineering</a> at <a href="http://www.scut.edu.cn/">South China University of Technology (SCUT)</a>. Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He joined SCUT in 2004. He was also a faculty member of <a href="http://ccnl.scut.edu.cn/">Guangdong Key Laboratory of Communication and Computer Network</a> at SCUT from 2004. He was a visiting scholar at <a href="http://www.psu.edu">the Pennsylvania State University</a> from 2016 to 2017.  
-<br>
-He received Ph.D from School of <a href="http://cs.scut.edu.cn/">Computer Science and Engineering</a> at SCUT in 2012, Master Degree from <a href="http://www.scut.edu.cn/ee/">School of Electronics and Information</a> at SCUT in 2004, and Bachelor Degree from School of Electronics and Information at SCUT in 1999.  
+Jinlong Hu is a Senior Engineer in the <a href="http://cs.scut.edu.cn/"> School of Computer Science and Engineering</a> at <a href="http://www.scut.edu.cn/">South China University of Technology (SCUT)</a>. Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He joined SCUT in 2004. He was also a faculty member of <a href="http://ccnl.scut.edu.cn/">Guangdong Key Laboratory of Communication and Computer Network</a> at SCUT from 2004. He was a visiting scholar at <a href="http://www.psu.edu">the Pennsylvania State University</a> from 2016 to 2017. He received Ph.D from School of <a href="http://cs.scut.edu.cn/">Computer Science and Engineering</a> at SCUT in 2012, Master Degree from <a href="http://www.scut.edu.cn/ee/">School of Electronics and Information</a> at SCUT in 2004, and Bachelor Degree from School of Electronics and Information at SCUT in 1999.  
 <br>
 He has hosted or participated over 20 research projects including the Scientific Research Joint Funds of Ministry of Education and China Mobile, the Science and Technology Planning Project of Guangdong Province, the 863 program project, the CNGI Project and etc. He has converted many original research ideas into research prototype systems and eventually into commercial products. He holds CISSP and CISP certifications from 2007.
  
@@ -16,7 +14,7 @@ He has hosted or participated over 20 research projects including the Scientific
 <li>[Dec. 2017] Dr.Xiying Wang visited our lab.</li>
 <li>[Dec. 2017] Attending BigData 2017 conference at Boston.</li>
 <li>[Nov. 2017] Attending BIBM 2017 conference at Kansas City.</li>
-<li>[Nov. 2016 - Dec. 2017] I was visiting The Pennsylvania State University as a visiting scholar.</li>
+<li>[Nov. 2016 - Dec. 2017] Visiting the Pennsylvania State University as a visiting scholar.</li>
 </ul>
 
  
