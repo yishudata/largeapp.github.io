@@ -11,7 +11,8 @@ He has hosted or participated over 20 research projects including the Scientific
  
 #### What's New
 <ul>
-<li>[Dec. 2017] Dr.Xiying Wang visited our lab.</li>
+<li>[Feb. 2018] Our paper was accepted by Expert Systems With Applications(Impact Factor:3.928), congratulation! Junjie, Yuezheng.</li>
+<li>[Dec. 2017] Dr.Xiying Wang visited our lab. Dr.wang is curently a postdoctoral at Pennsylvania State University.</li>
 <li>[Dec. 2017] Attending BigData 2017 conference at Boston.</li>
 <li>[Nov. 2017] Attending BIBM 2017 conference at Kansas City.</li>
 <li>[Nov. 2016 - Dec. 2017] Visiting the Pennsylvania State University as a visiting scholar.</li>
@@ -31,6 +32,8 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Selected Recent Publications
 
 <ul>
+<li>Jinlong Hu, Junjie Liang, Yuezhen Kuang, Vasant Honavar, A User Similarity-based Top-N Recommendation Approach for Mobile
+In-application Advertising, Expert Systems with Applications (Impact Factor:3.928) (accepted)<li>
 <li>Yong Cai, Shaorong Liu, Jinlong Hu, Guihong Bai, and Shoubin Dong, A Hybrid Bipartite Graph based Recommendation algorithm for Mobile Games, IEEE International Conference on Big Data (BigData 2017), Boston, MA, USA, December 2017.</li>
 <li>Ika Novita Dewi, Shoubin Dong, Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017), Kansas City, MO, USA, November 2017.</li>
 <li>Jinlong Hu, Bin Liao, Xiaowei Zhao, and Ping Li, Applying convolutional neural networks to fMRI data classification: A deep learning approach, 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada, November 2017.(Poster)</li>
