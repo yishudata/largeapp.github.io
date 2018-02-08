@@ -11,7 +11,7 @@ He has hosted or participated over 20 research projects including the Scientific
  
 #### What's New
 <ul>
-<li>[Feb. 2018] Our paper was accepted by Expert Systems With Applications. Congratulation! Junjie, Yuezhen.</li>
+<li>[Feb. 2018] Our paper was accepted by Expert Systems With Applications. Congratulation! Junjie & Yuezhen.</li>
 <li>[Dec. 2017] Dr.Xiying Wang visited our lab. Dr.wang is currently a postdoctoral at Pennsylvania State University.</li>
 <li>[Dec. 2017] Attending BigData 2017 conference at Boston.</li>
 <li>[Nov. 2017] Attending BIBM 2017 conference at Kansas City.</li>
