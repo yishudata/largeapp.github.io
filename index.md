@@ -11,11 +11,12 @@ He has hosted or participated over 20 research projects including the Scientific
  
 #### What's New
 <ul>
-<li>[Feb. 2018] Our paper was accepted by Expert Systems With Applications. Congratulation! Junjie & Yuezhen.</li>
-<li>[Dec. 2017] Dr.Xiying Wang visited our lab. Dr.wang is currently a postdoctoral at Pennsylvania State University.</li>
-<li>[Dec. 2017] Attending BigData 2017 conference at Boston.</li>
-<li>[Nov. 2017] Attending BIBM 2017 conference at Kansas City.</li>
-<li>[Nov. 2016 - Dec. 2017] Visiting the Pennsylvania State University as a visiting scholar.</li>
+<li>[Feb. 2018] Our paper on "A User Similarity-based Top-N Recommendation Approach for Mobile In-application Advertising" is accepted by Expert Systems With Applications.</li>
+<li>[Dec. 2017] Dr.Xiying Wang visits our lab. Dr.wang is currently a postdoctoral at Pennsylvania State University.</li>
+<li>[Dec. 2017] I am attending IEEE International Conference on Big Data (BigData 2017) at Boston.</li>
+<li>[Nov. 2017] I have received a research training grant from school of computer science and engineering to conduct a research project on "Large Scale Graph Analysis".</li>
+<li>[Nov. 2017] I am attending IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017) at Kansas City.</li>
+<li>[Nov. 2016 - Dev. 2017] I am visiting College of Information Sciences and Technology at Pennsylvania State University as a visiting scholar.</li>
 </ul>
 
  
