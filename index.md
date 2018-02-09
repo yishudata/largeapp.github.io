@@ -32,7 +32,7 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Selected Recent Publications
 
 <ul>
-<li>Jinlong Hu, Junjie Liang, Yuezhen Kuang, Vasant Honavar, <a href="https://www.sciencedirect.com/science/article/pii/S0957417418300903">A User Similarity-based Top-N Recommendation Approach for Mobile In-application Advertising</a>, Expert Systems with Applications (Impact Factor:3.928), 2018. (accepted)</li>
+<li>Jinlong Hu, Junjie Liang, Yuezhen Kuang, Vasant Honavar, A User Similarity-based Top-N Recommendation Approach for Mobile In-application Advertising, Expert Systems with Applications (Impact Factor:3.928), https://doi.org/10.1016/j.eswa.2018.02.012, 2018.</li>
 <li>Yong Cai, Shaorong Liu, Jinlong Hu, Guihong Bai, and Shoubin Dong, A Hybrid Bipartite Graph based Recommendation algorithm for Mobile Games, IEEE International Conference on Big Data (BigData 2017), Boston, MA, USA, December 2017.</li>
 <li>Ika Novita Dewi, Shoubin Dong, Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017), Kansas City, MO, USA, November 2017.</li>
 <li>Jinlong Hu, Bin Liao, Xiaowei Zhao, and Ping Li, Applying convolutional neural networks to fMRI data classification: A deep learning approach, 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada, November 2017.(Poster)</li>
