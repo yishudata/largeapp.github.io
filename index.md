@@ -16,7 +16,7 @@ He has hosted or participated over 20 research projects including the Scientific
 <li>[Dec. 2017] I am attending IEEE International Conference on Big Data (BigData 2017) at Boston.</li>
 <li>[Nov. 2017] I have received a research training grant from School of Computer Science and Engineering to conduct a research project on "Large Scale Graph Analysis".</li>
 <li>[Nov. 2017] I am attending IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017) at Kansas City.</li>
-<li>[Nov. 2016 - Dev. 2017] I am visiting College of Information Sciences and Technology at Pennsylvania State University as a visiting scholar.</li>
+<li>[Nov. 2016 - Dec. 2017] I am visiting College of Information Sciences and Technology at Pennsylvania State University as a visiting scholar.</li>
 </ul>
 
  
