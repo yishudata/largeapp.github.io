@@ -11,7 +11,7 @@ He has hosted or participated over 20 research projects including the Scientific
  
 #### What's New
 <ul>
-<li>[Feb. 2018] Our paper on "a user similarity-based top-N recommendation approach for mobile in-application advertising" is accepted by Expert Systems With Applications.</li>
+<li>[Feb. 2018] Our paper on "a user similarity-based top-N recommendation approach for mobile in-application advertising" is accepted by Expert Systems with Applications.</li>
 <li>[Dec. 2017] Dr.Xiying Wang visits our lab. Dr.Wang is currently a postdoctoral at Pennsylvania State University.</li>
 <li>[Dec. 2017] I am attending IEEE International Conference on Big Data (BigData 2017) at Boston.</li>
 <li>[Nov. 2017] I have received a research training grant from School of Computer Science and Engineering to conduct a research project on "Large Scale Graph Analysis".</li>
