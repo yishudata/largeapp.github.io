@@ -11,8 +11,8 @@ He has hosted or participated over 20 research projects including the Scientific
  
 #### What's New
 <ul>
-<li>[Feb. 2018] Our paper on "a user similarity-based top-N recommendation approach for mobile in-application advertising" is accepted by Expert Systems with Applications.</li>
-<li>[Dec. 2017] Dr. Xiying Wang visits our lab and gives a talk on mobile HCI. She is currently a postdoctoral at Pennsylvania State University. She received her PhD in information science from Cornell University.</li>
+<li>[Feb. 2018] 1 paper accepted by <a href="https://www.journals.elsevier.com/expert-systems-with-applications"> Expert Systems with Applications</a>.</li>
+<li>[Dec. 2017] Dr. Xiying Wang visits our lab. She is currently a postdoctoral at Pennsylvania State University.</li>
 <li>[Dec. 2017] I will give a paper presentation at <a href="http://cci.drexel.edu/bigdata/bigdata2017/"> IEEE BigData 2017</a>, Boston, MA, USA.</li>
 <li>[Nov. 2017] Received a research seed grant from School of Computer Science and Engineering to conduct a research project on "Large Scale Graph Analysis".</li>
 <li>[Nov. 2017] I will give a paper presentation at <a href="https://muii.missouri.edu/bibm2017/"> IEEE BIBM 2017</a>, Kansas City, MO, USA.</li>
