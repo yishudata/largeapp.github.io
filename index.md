@@ -17,6 +17,7 @@ He has hosted or participated over 20 research projects including the Scientific
 <li>[Nov. 2017] Received a research seed grant from School of Computer Science and Engineering to conduct a research project on "Large Scale Graph Analysis".</li>
 <li>[Nov. 2017] I will give a paper presentation at <a href="https://muii.missouri.edu/bibm2017/"> IEEE BIBM 2017</a>, Kansas City, MO, USA.</li>
 <li>[Sept. 2017] 1 poster accepted at 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada.</li>
+<li>[Mar. 2017] 1 paper accepted by <a href="https://www.hindawi.com/journals/misy/2017/6412521/">Mobile Information Systems</a>.</li>
 <li>[Nov. 2016 - Dec. 2017] I am visiting <a href="https://ist.psu.edu/"> College of Information Sciences and Technology</a> at <a href="http://www.psu.edu">Pennsylvania State University</a> as a visiting scholar.</li>
 </ul>
 
@@ -34,7 +35,7 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Selected Recent Publications
 
 <ul>
-<li>Jinlong Hu, Junjie Liang, Yuezhen Kuang, and Vasant Honavar, A User Similarity-based Top-N Recommendation Approach for Mobile In-application Advertising, Expert Systems with Applications (Impact Factor:3.928), https://doi.org/10.1016/j.eswa.2018.02.012, 2018.</li>
+<li>Jinlong Hu, Junjie Liang, Yuezhen Kuang, and Vasant Honavar, A User Similarity-based Top-N Recommendation Approach for Mobile In-application Advertising, Expert Systems with Applications, https://doi.org/10.1016/j.eswa.2018.02.012, 2018.</li>
 <li>Yong Cai, Shaorong Liu, Jinlong Hu, Guihong Bai, and Shoubin Dong, A Hybrid Bipartite Graph based Recommendation algorithm for Mobile Games, IEEE International Conference on Big Data (BigData 2017), Boston, MA, USA, December 2017.</li>
 <li>Ika Novita Dewi, Shoubin Dong, and Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017), Kansas City, MO, USA, November 2017.</li>
 <li>Jinlong Hu, Bin Liao, Xiaowei Zhao, and Ping Li, Applying convolutional neural networks to fMRI data classification: A deep learning approach, 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada, November 2017.(Poster)</li>
