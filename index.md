@@ -16,7 +16,7 @@ He has hosted or participated over 20 research projects including the Scientific
 <li>[Dec. 2017] I will give a paper presentation at <a href="http://cci.drexel.edu/bigdata/bigdata2017/"> IEEE BigData 2017</a>, Boston, MA, USA.</li>
 <li>[Nov. 2017] Received a research seed grant from School of Computer Science and Engineering to conduct a research project on "Large Scale Graph Analysis".</li>
 <li>[Nov. 2017] I will give a paper presentation at <a href="https://muii.missouri.edu/bibm2017/"> IEEE BIBM 2017</a>, Kansas City, MO, USA.</li>
-<li>[Sept. 2017] 1 poster accepted at 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada.
+<li>[Sept. 2017] 1 poster accepted at 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada.</li>
 <li>[Nov. 2016 - Dec. 2017] I am visiting <a href="https://ist.psu.edu/"> College of Information Sciences and Technology</a> at <a href="http://www.psu.edu">Pennsylvania State University</a> as a visiting scholar.</li>
 </ul>
 
