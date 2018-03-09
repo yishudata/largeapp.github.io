@@ -34,13 +34,13 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Selected Recent Publications
 
 <ul>
-<li>Jinlong Hu, Junjie Liang, Yuezhen Kuang, Vasant Honavar, A User Similarity-based Top-N Recommendation Approach for Mobile In-application Advertising, Expert Systems with Applications (Impact Factor:3.928), https://doi.org/10.1016/j.eswa.2018.02.012, 2018.</li>
+<li>Jinlong Hu, Junjie Liang, Yuezhen Kuang, and Vasant Honavar, A User Similarity-based Top-N Recommendation Approach for Mobile In-application Advertising, Expert Systems with Applications (Impact Factor:3.928), https://doi.org/10.1016/j.eswa.2018.02.012, 2018.</li>
 <li>Yong Cai, Shaorong Liu, Jinlong Hu, Guihong Bai, and Shoubin Dong, A Hybrid Bipartite Graph based Recommendation algorithm for Mobile Games, IEEE International Conference on Big Data (BigData 2017), Boston, MA, USA, December 2017.</li>
-<li>Ika Novita Dewi, Shoubin Dong, Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017), Kansas City, MO, USA, November 2017.</li>
+<li>Ika Novita Dewi, Shoubin Dong, and Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017), Kansas City, MO, USA, November 2017.</li>
 <li>Jinlong Hu, Bin Liao, Xiaowei Zhao, and Ping Li, Applying convolutional neural networks to fMRI data classification: A deep learning approach, 47th Annual Meeting of the Society for Computers in Psychology, Vancouver, Canada, November 2017.(Poster)</li>
-<li>Jinlong Hu, Junjie Liang, Shoubin Dong, iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection, Mobile Information Systems, vol. 2017, Article ID 6412521, 2017. </li>
-<li>Zhengxian Li, Jinlong Hu, Jiazhao Shen, Yong Xu, A scalable recipe recommendation system for mobile application, In 2016 3rd International Conference on Information Science and Control Engineering (ICISCE), IEEE, 2016.</li>
-<li>Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, Dengguo Feng, Xede: Practical Exploit Early Detection, International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015), Kyoto, Japan, November 2015.</li>
+<li>Jinlong Hu, Junjie Liang, and Shoubin Dong, iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection, Mobile Information Systems, vol. 2017, Article ID 6412521, 2017. </li>
+<li>Zhengxian Li, Jinlong Hu, Jiazhao Shen, and Yong Xu, A scalable recipe recommendation system for mobile application, In 2016 3rd International Conference on Information Science and Control Engineering (ICISCE), IEEE, 2016.</li>
+<li>Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, and Dengguo Feng, Xede: Practical Exploit Early Detection, International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015), Kyoto, Japan, November 2015.</li>
 <li>Jianfeng Deng, Ling Zhang, Jinlong Hu, and Dongli He, Adaptation of ANN based video stream QoE prediction model, In Pacific Rim Conference on Multimedia, Springer, Cham, 2014.</li>
 </ul>
 
