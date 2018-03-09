@@ -5,18 +5,18 @@ South China University of Technology
 
  
 #### Basic Info
-Jinlong Hu is currently a Senior Engineer in the <a href="http://cs.scut.edu.cn/"> School of Computer Science and Engineering</a> at <a href="http://www.scut.edu.cn/">South China University of Technology (SCUT)</a>. Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He joined SCUT in 2004. He was also a faculty member of <a href="http://ccnl.scut.edu.cn/">Guangdong Key Laboratory of Communication and Computer Network</a> at SCUT from 2004. He was a visiting scholar at <a href="http://www.psu.edu">the Pennsylvania State University</a> from 2016 to 2017. He received Ph.D from School of <a href="http://cs.scut.edu.cn/">Computer Science and Engineering</a> at SCUT in 2012, Master Degree from <a href="http://www.scut.edu.cn/ee/">School of Electronics and Information</a> at SCUT in 2004, and Bachelor Degree from School of Electronics and Information at SCUT in 1999.  
+Jinlong Hu is currently a Senior Engineer in the <a href="http://cs.scut.edu.cn/"> School of Computer Science and Engineering</a> at <a href="http://www.scut.edu.cn/">South China University of Technology (SCUT)</a>. Before joining School of Computer Science and Engineering in September 2013, he was a Senior Engineer in Information Network Engineering and Research Center (South China Network Center of CERNET) at SCUT. He joined SCUT in 2004. He was also a faculty member of <a href="http://ccnl.scut.edu.cn/">Guangdong Key Laboratory of Communication and Computer Network</a> at SCUT from 2004. He was a visiting scholar at <a href="http://www.psu.edu"> Pennsylvania State University</a> from 2016 to 2017. He received Ph.D from School of <a href="http://cs.scut.edu.cn/">Computer Science and Engineering</a> at SCUT in 2012, Master Degree from <a href="http://www.scut.edu.cn/ee/">School of Electronics and Information</a> at SCUT in 2004, and Bachelor Degree from School of Electronics and Information at SCUT in 1999.  
 <br>
 He has hosted or participated over 20 research projects including the Scientific Research Joint Funds of Ministry of Education and China Mobile, the Science and Technology Planning Project of Guangdong Province, the 863 program project, the CNGI Project and etc. He holds several professional certifications including CISSP and etc. He has converted many original research ideas into research prototype systems and usually into commercial products. 
  
 #### What's New
 <ul>
 <li>[Feb. 2018] Our paper on "a user similarity-based top-N recommendation approach for mobile in-application advertising" is accepted by Expert Systems with Applications.</li>
-<li>[Dec. 2017] Dr.Xiying Wang visits our lab. Dr.Wang is currently a postdoctoral at Pennsylvania State University.</li>
-<li>[Dec. 2017] I am attending IEEE International Conference on Big Data (BigData 2017) at Boston.</li>
-<li>[Nov. 2017] I have received a research training grant from School of Computer Science and Engineering to conduct a research project on "Large Scale Graph Analysis".</li>
-<li>[Nov. 2017] I am attending IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017) at Kansas City.</li>
-<li>[Nov. 2016 - Dec. 2017] I am visiting College of Information Sciences and Technology at Pennsylvania State University as a visiting scholar.</li>
+<li>[Dec. 2017] Dr. Xiying Wang visits our lab and gives a talk on mobile HCI. She is currently a postdoctoral at Pennsylvania State University. She received her PhD in information science from Cornell University.</li>
+<li>[Dec. 2017] I will give a paper presentation at <a href="http://cci.drexel.edu/bigdata/bigdata2017/"> IEEE BigData 2017</a>, Boston, MA, USA.</li>
+<li>[Nov. 2017] Received a research seed grant from School of Computer Science and Engineering to conduct a research project on "Large Scale Graph Analysis".</li>
+<li>[Nov. 2017] I will give a paper presentation at <a href="https://muii.missouri.edu/bibm2017/"> IEEE BIBM 2017</a>, Kansas City, MO, USA.</li>
+<li>[Nov. 2016 - Dec. 2017] I am visiting <a href="https://ist.psu.edu/"> College of Information Sciences and Technology</a> at <a href="http://www.psu.edu">Pennsylvania State University</a> as a visiting scholar.</li>
 </ul>
 
  
