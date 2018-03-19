@@ -38,6 +38,7 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Selected Recent Publications
 
 <ul>
+<li>Xiaochuan Lindsey Ma, Jinlong Hu, Xiaowei Zhao, and Ping Li, Predicting Reading Comprehension from Eye Movement Features using Deep Neural Network，Cognitive Neuroscience Society (CNS) 2018 Annual Meeting, Boston, MA, USA, March 2018.(Poster)</li>
 <li>Jinlong Hu, Junjie Liang, Yuezhen Kuang, and Vasant Honavar, A User Similarity-based Top-N Recommendation Approach for Mobile In-application Advertising, Expert Systems with Applications, https://doi.org/10.1016/j.eswa.2018.02.012, 2018.</li>
 <li>Yong Cai, Shaorong Liu, Jinlong Hu, Guihong Bai, and Shoubin Dong, A Hybrid Bipartite Graph based Recommendation algorithm for Mobile Games, IEEE International Conference on Big Data (BigData 2017), Boston, MA, USA, December 2017.</li>
 <li>Ika Novita Dewi, Shoubin Dong, and Jinlong Hu, Drug-Drug Interaction Relation Extraction with Deep Convolutional Neural Networks, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2017), Kansas City, MO, USA, November 2017.</li>
