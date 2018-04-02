@@ -46,7 +46,7 @@ He has hosted or participated over 20 research projects including the Scientific
 <li>Jinlong Hu, Junjie Liang, and Shoubin Dong, iBGP: A Bipartite Graph Propagation Approach for Mobile Advertising Fraud Detection, Mobile Information Systems, vol. 2017, Article ID 6412521, 2017. </li>
 <li>Zhengxian Li, Jinlong Hu, Jiazhao Shen, and Yong Xu, A scalable recipe recommendation system for mobile application, In 2016 3rd International Conference on Information Science and Control Engineering (ICISCE), IEEE, 2016.</li>
 <li>Meining Nie, Purui Su, Qi Li, Zhi Wang, Lingyun Ying, Jinlong Hu, and Dengguo Feng, Xede: Practical Exploit Early Detection, International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2015), Kyoto, Japan, November 2015.</li>
-<li>Jianfeng Deng, Ling Zhang, Jinlong Hu, and Dongli He, Adaptation of ANN based video stream QoE prediction model, In Pacific Rim Conference on Multimedia, Springer, Cham, 2014.</li>
+/*<li>Jianfeng Deng, Ling Zhang, Jinlong Hu, and Dongli He, Adaptation of ANN based video stream QoE prediction model, In Pacific Rim Conference on Multimedia, Springer, Cham, 2014.</li>*/
 </ul>
 
 #### Selected Recent Projects
