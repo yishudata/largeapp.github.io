@@ -14,7 +14,7 @@ He has hosted or participated over 20 research projects including the Scientific
 #### What's New
 <ul>
 <li>[Mar. 2018] 1 poster accepted by <a href="https://www.cogneurosociety.org/annual-meeting/">Cognitive Neuroscience Society (CNS) 2018 Annual Meeting</a>, Boston, MA, USA.</li>
-<li>[Feb. 2018] 1 paper accepted by <a href="https://www.journals.elsevier.com/expert-systems-with-applications"> Expert Systems with Applications</a>.</li>
+<li>[Feb. 2018] 1 paper accepted by <a href="https://doi.org/10.1016/j.eswa.2018.02.012"> Expert Systems with Applications</a>.</li>
 <li>[Dec. 2017] Dr. Xiying Wang visits our lab, she is currently a postdoctoral at Pennsylvania State University.</li>
 <li>[Dec. 2017] I will give a paper presentation at <a href="http://cci.drexel.edu/bigdata/bigdata2017/"> IEEE BigData 2017</a>, Boston, MA, USA.</li>
 <li>[Nov. 2017] Received a research seed grant from School of Computer Science and Engineering to conduct a research project on "mobile advertising fraud detection with large scale graph analysis".</li>
