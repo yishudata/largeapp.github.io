@@ -61,21 +61,23 @@ He has hosted or participated over 20 research projects including the Scientific
 
 
 
-#### Teaching
+#### Currently Teaching
 <ul>
-<li>Graduate Courses:</li>
-<li>Advanced Computer Network Security /Information Security Technology (2014,2015,2016,2018)</li>
-<li>Advanced Computer Network (2006)</li>
+<li>Graduate Course:</li>
+<li>Advanced Computer Network Security /Information Security Technology (2014 Spring,2015 spring, 2016 Spring,2018 Spring)</li>
+<ul>
+<li>Undergraduate Course:</li>
+<li>Digital Communication Principle (2018 Spring)</li>
+<li>High Performance Computing & Cloud Computing (2014 Fall, 2015 Fall, 2016 Fall)</li> 
 </ul>
 
-<ul>
-<li>Undergraduate Courses:</li>
-<li>Digital Communication Principle (2018)</li>
-<li>High Performance Computing & Cloud Computing (2014,2015,2016)</li> 
-<li>Software Testing & Quality Assurance (2016)</li>
-<li>Embedded Systems & Design (2005,2006,2007,2008)</li>
-<li>Information Theory and Coding (2006)
-</li></ul>
+<!-- <ul>
+<li>Before 2016:</li>
+<li>Software Testing & Quality Assurance (2016), undergraduate course</li>
+<li>Embedded Systems & Design (2005,2006,2007,2008), undergraduate course</li>
+<li>Information Theory and Coding (2006), undergraduate course</li>
+<li>Advanced Computer Network (2006), graduate course</li>
+</ul> -->
 
 #### Group members
 **Faculty**
