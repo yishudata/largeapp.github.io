@@ -64,7 +64,7 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Currently Teaching
 <ul>
 <li>Graduate Course:</li>
-<li>Advanced Computer Network Security /Information Security Technology (2014 Spring,2015 spring, 2016 Spring,2018 Spring)</li>
+<li>Advanced Computer Network Security /Information Security Technology (2014 Spring, 2015 Spring, 2016 Spring, 2018 Spring)</li>
 </ul>
 <ul>
 <li>Undergraduate Course:</li>
