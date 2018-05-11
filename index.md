@@ -13,6 +13,7 @@ He has hosted or participated over 20 research projects including the Scientific
  
 #### What's New
 <ul>
+<li>[May. 2018] <a href="http://cls.psu.edu/people/pul8">Dr. Ping Li</a>, Professor of Psychology, Linguistics, and Information Sciences and Technology at Pennsylvania State University, visits our lab.</li>
 <li>[Mar. 2018] 1 poster accepted by <a href="https://www.cogneurosociety.org/annual-meeting/">Cognitive Neuroscience Society (CNS) 2018 Annual Meeting</a>, Boston, MA, USA.</li>
 <li>[Feb. 2018] 1 paper accepted by <a href="https://doi.org/10.1016/j.eswa.2018.02.012"> Expert Systems with Applications</a>.</li>
 <li>[Dec. 2017] Dr. Xiying Wang visits our lab, she is currently a postdoctoral at Pennsylvania State University.</li>
