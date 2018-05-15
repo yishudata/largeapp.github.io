@@ -69,8 +69,8 @@ He has hosted or participated over 20 research projects including the Scientific
 </ul>
 <ul>
 <li>Undergraduate Course:</li>
-<li>Digital Communication Principle (2018 Spring)</li>
-<li>High Performance Computing & Cloud Computing (2014 Fall, 2015 Fall, 2016 Fall)</li> 
+<li>Digital Communication Principle (2018 Spring, 2018 Fall)</li>
+<li>High Performance Computing & Cloud Computing (2014 Fall, 2015 Fall, 2016 Fall, 2018 Fall)</li> 
 </ul>
 
 <!-- <ul>
