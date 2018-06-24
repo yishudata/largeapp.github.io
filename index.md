@@ -67,12 +67,12 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Currently Teaching
 <ul>
 <li>Graduate Course:</li>
-<li>Advanced Computer Network Security /Information Security Technology (2014 Spring, 2015 Spring, 2016 Spring, 2018 Spring)</li>
+<li>Advanced Computer Network Security /Information Security Technology (2018 Spring, 2016 Spring, 2015 Spring, 2014 Spring )</li>
 </ul>
 <ul>
 <li>Undergraduate Course:</li>
-<li>Digital Communication Principle (2018 Spring, 2018 Fall)</li>
-<li>High Performance Computing & Cloud Computing (2014 Fall, 2015 Fall, 2016 Fall, 2018 Fall)</li> 
+<li>Digital Communication Principle (2018 Fall, 2018 Spring)</li>
+<li>High Performance Computing & Cloud Computing (2018 Fall, 2016 Fall, 2015 Fall, 2014 Fall)</li> 
 </ul>
 
 <!-- <ul>
@@ -113,7 +113,7 @@ Xiaochun Luo (2016)
 Han zhou (2016)
 ```
 
-**Recent Alumni**  
+#### Recent Alumni  
   
 ```markdown
 Runchao Zhu
