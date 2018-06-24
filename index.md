@@ -30,10 +30,11 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Research Interests
 
 <ul>
-<li>Big Data Analysis & Processing</li>
+<li>Big Data Analysis</li>
 <li>Machine Learning</li>
-<li>Brain Informatics</li>
-<li>Computational Advertising & Recommendation</li>
+<li>Brain Informatics & Neuroinformatics</li>
+<li>Fraud Detection & Computational Advertising </li>
+<li>Recommender System & User Behavior Analysis</li>
 <li>Computer Networking & Security</li>
 </ul>
 
@@ -92,22 +93,37 @@ Dr.Jinlong Hu
 **Graduate Students**  
   
 ```markdown
-Runchao Zhu (2015) 
-Yi Zhuang (2016) 
-Yuezhen Kuang (2016) 
 Lijie Cao (2017) 
 Lang Chen (2017)
+Yi Zhuang (2016) 
+Yuezhen Kuang (2016) 
+Tenghui Li (2018)
 ```
 
 **Undergraduate Students**  
   
 ```markdown
 Xingping He (2015)
-Jiahui Li (2014)
-Yifan Zhang (2014)
-Manjing Cai (2014)
-Kai Feng (2014)
+Yangmin Huang (2016)
+Zhenbang Huang (2016)
+Shiying Chen (2016)
+Wnehan Zhang (2016)
+Xiaoling He (2016)
+Xiaochun Luo (2016)
+Han zhou (2016)
 ```
+
+**Recent Alumni**  
+  
+```markdown
+Runchao Zhu
+Jiahui Li
+Yifan Zhang
+Manjing Cai
+Kai Feng
+Junjie Liang
+```
+
 
 #### Contact
 School of Computer Science and Engineering<br>
