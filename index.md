@@ -31,7 +31,7 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Research Interests
 
 <ul>
-<li>Big Data Analytics, Machine Learning, Brain Informatics, Click Fraud & Computational Advertising, Recommender System, Computer Networking & Security</li>
+<li>Big Data Analytics, Machine Learning, User Behavior Analysis & Fraud Detection, Brain Informatics, Computational Advertising & Recommender System, Computer Networking & Security</li>
 </ul>
 
 #### Selected Recent Publications
