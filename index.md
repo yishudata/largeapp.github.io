@@ -31,7 +31,7 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Research Interests
 
 <ul>
-<li>Big Data Analytics, Machine Learning, User Behavior Analysis & Fraud Detection, Brain Informatics, Computational Advertising & Recommender System, Computer Networking & Security</li>
+<li>Big Data Analytics, Machine Learning, Fraud Informatics, Brain Informatics, Computational Advertising & Recommendation, Computer Networking & Security</li>
 </ul>
 
 #### Selected Recent Publications
@@ -49,6 +49,10 @@ He has hosted or participated over 20 research projects including the Scientific
 </ul>
 
 #### Selected Recent Projects
+
+<ul>
+<li>Research on mobile advertising fraud detection based on large scale graph analysis, the Natural Science Foundation of Guangdong Province of China, PI, 2018-2021
+</li></ul>
 
 <ul>
 <li>Research on the Technology and Application of 4G Product Micro Marketing based on Mobile Computing Context Big Data, the Scientific Research Joint Funds of Ministry of Education of China and China Mobile, PI, 2015-2018
