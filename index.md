@@ -51,7 +51,7 @@ He has hosted or participated over 20 research projects including the Scientific
 #### Selected Recent Projects
 
 <ul>
-<li>Research on mobile advertising fraud detection based on large scale graph analysis, the Natural Science Foundation of Guangdong Province of China, PI, 2018-2021
+<li>Research on Mobile Advertising Fraud Detection based on Large Scale Graph Analysis, the Natural Science Foundation of Guangdong Province of China, PI, 2018-2021
 </li></ul>
 
 <ul>
