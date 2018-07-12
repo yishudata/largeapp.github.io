@@ -143,10 +143,12 @@ h1 {
 
 h2 {
 	font-size: 30px;
+	font-weight: normal;
 }
 
 h3 {
 	font-size: 1.35em;
+	font-weight: normal;
 }
 
 h4 {
