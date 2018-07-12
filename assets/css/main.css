@@ -53,7 +53,7 @@
 	body, input, select, textarea {
 		font-family: "Open Sans",sans-serif;
 		font-size: 15pt;
-		font-weight: normal;
+		font-weight: 500;
 		line-height: 2;
 	}
 
