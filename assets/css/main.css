@@ -608,13 +608,13 @@ body {
 	color: inherit;
 }
 
-/*@media screen and (max-width: 980px) {
+@media screen and (max-width: 980px) {
 
     #navPanel {
         display: block;
     }
 
-}*/
+}
 
 
 
